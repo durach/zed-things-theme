@@ -1,0 +1,7 @@
+id = "things-theme"
+name = "Things Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Dmytro Durach"]
+description = "Light and dark themes ported from the Things theme for Obsidian"
+repository = "https://github.com/durach/zed-things-theme"
