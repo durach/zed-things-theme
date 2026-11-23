@@ -9,7 +9,9 @@ Light and dark themes for the [Zed](https://zed.dev) editor, ported from the
 Markdown uses the theme's colors for headings, emphasis and links. Code uses the
 Atom One palette, as the Obsidian theme does for code blocks.
 
-<!-- SCREENSHOTS: light and dark, to be added -->
+![Things Light](screenshots/light.png)
+
+![Things Dark](screenshots/dark.png)
 
 ## Install
 
